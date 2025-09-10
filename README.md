@@ -1,4 +1,3 @@
-# PBI-Dashboard
 # SN Corp Dashboard
 
 ## Overview
